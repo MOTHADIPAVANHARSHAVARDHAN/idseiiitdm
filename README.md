@@ -1,6 +1,6 @@
 ---
 ## GAME : The Outlier Astronaut
-Play the live data science educational game here: [The Outlier Astronaut](https://outlier-astronaut.onrender.com)
+Play the live data science educational game here: "https://outlier-astronaut.onrender.com"
 
 ---
 # Next-Day Air Quality (AQI) Forecasting for Hyderabad
